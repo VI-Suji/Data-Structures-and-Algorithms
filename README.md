@@ -1,2 +1,2 @@
 # Data-Structures-and-Algorithms
-Coursera Course specialization
+All codes done during the course data sructures and algorithms specialization
